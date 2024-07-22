@@ -17,9 +17,9 @@ This project is a simple ATM system implemented in Java. It includes a basic ATM
 
 ## File Structure
 ATMInterfaceProject/
-│
-├── ATM_Interface.java # Java source file containing the ATM system code
-├── README.md # Project documentation
+-│
+-├── ATM_Interface.java # Java source file containing the ATM system code
+-├── README.md # Project documentation
 
 
 
