@@ -15,11 +15,12 @@ This project is a simple ATM system implemented in Java. It includes a basic ATM
 
 - Java Development Kit (JDK) 22 or higher.
 
-## File Structure
-ATMInterfaceProject/
--│
--├── ATM_Interface.java # Java source file containing the ATM system code
--├── README.md # Project documentation
+
+### File Descriptions
+
+- **ATM_Interface.java**: The main Java source file for the ATM system. Contains the implementation of the ATM and BankAccount classes, as well as the main method to run the application.
+- **README.md**: This file, which provides an overview and documentation for the project.
+- **bin/**: Optional directory where compiled `.class` files are placed after compilation (created automatically if you compile the code).
 
 
 
