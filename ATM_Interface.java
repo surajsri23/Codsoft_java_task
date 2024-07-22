@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ATMSystem {
+public class ATM_Interface {
 
     static class BankAccount {
         private double balance;
