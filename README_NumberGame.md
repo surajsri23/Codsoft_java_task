@@ -28,7 +28,7 @@ This is a simple number guessing game implemented in Java. The program generates
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/surajsri23/# Number Guessing Game
+   git clone https://github.com/surajsri23/# NUMBER_GAME
 
 This is a simple number guessing game implemented in Java. The program generates a random number between 1 and 100, and the user has to guess the number within a limited number of attempts. The game supports multiple rounds and keeps track of the user's score.
 
@@ -52,7 +52,7 @@ This is a simple number guessing game implemented in Java. The program generates
 
 ## File Structure
 
-- `NUMBER GAME.java`: The main file containing the implementation of the number guessing game.
+- `NUMBER_GAME.java`: The main file containing the implementation of the number guessing game.
 
 ## How to Run
 
@@ -62,7 +62,7 @@ This is a simple number guessing game implemented in Java. The program generates
 
 2. Navigate to the project directory:
 ```sh
-cd number-guessing-game
+cd NUMBER_GAME
 ```
 
 3. Compile the Java program:
